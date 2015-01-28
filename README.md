@@ -1,0 +1,1 @@
+# openshift-postgres-client-cartridge
